@@ -1,7 +1,7 @@
 {
   "name": "@aws-amplify/discord-bot",
   "type": "module",
-  "version": "1.5.1-next.18",
+  "version": "1.5.1-next.19",
   "license": "Apache-2.0",
   "private": true,
   "scripts": {
