@@ -9,4 +9,6 @@ fi
 echo "Finish existing database prep"
 cd -
 
+prisma generate 
+
 pnpm run start-server
